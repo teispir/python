@@ -13,3 +13,11 @@ https://www.w3schools.com/python/module_math.asp
 
 # Find, install and publish Python packages with the Python Package Index
 https://pypi.org/
+
+# Matplotlib GitHub Project
+https://github.com/matplotlib/matplotlib
+
+# Matplotlib Color Names
+https://www.w3schools.com/colors/colors_names.asp
+https://www.w3schools.com/colors/colors_hexadecimal.asp
+
