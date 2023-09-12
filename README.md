@@ -18,6 +18,8 @@ https://pypi.org/
 https://github.com/matplotlib/matplotlib
 
 # Matplotlib Color Names
+https://matplotlib.org/stable/index.html
 https://www.w3schools.com/colors/colors_names.asp
 https://www.w3schools.com/colors/colors_hexadecimal.asp
+https://matplotlib.org/stable/tutorials/colors/colormaps.html
 
