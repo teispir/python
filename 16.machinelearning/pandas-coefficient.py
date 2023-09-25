@@ -9,4 +9,4 @@ y = df['CO2']
 regr = linear_model.LinearRegression()
 regr.fit(X, y)
 
-print(regr.coef_)
+print(regr.coef_) 
