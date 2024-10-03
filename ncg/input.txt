@@ -1,0 +1,332 @@
+IMSChargingDataTypes.IMSRecord.mMTelRecord
+{
+    recordType : '83'D
+    sIP-Method : 'INVITE'H
+    role-of-Node : 'terminating (1)'
+    nodeAddress
+    {
+        domainName : 'mtasrf-s02-202.t02.tim.it'H
+    }
+    session-Id : 'mtasrf-s02-202.t02.tim.it;399019;2026511795;12800;83;0;sip:+393490621988@ims.mnc001.mcc222.3gppnetwork.org'H
+    list-Of-Calling-Party-Address
+    {
+        sIP-URI : 'sip:+393929321476@ims.mnc010.mcc222.3gppnetwork.org;user=phone;cpc=ordinary'H
+    }
+    called-Party-Address
+    {
+        tEL-URI : '74656C3A2B333933343930363231393838'H
+    }
+    interOperatorIdentifiers
+    {
+        [0]
+        {
+            originatingIOI : '766F6461666F6E652E6974'H
+            terminatingIOI : '74696D2E6974'H
+        }
+    }
+    recordSequenceNumber : '1'D
+    iMS-Charging-Identifier : '2270637363662E3165662E353736392E323032343034323230383436323022'H
+    list-Of-SDP-Media-Components
+    {
+        [0]
+        {
+            sIP-Request-Timestamp : '33393232373634333831'H
+            sIP-Response-Timestamp : '33393232373634343030'H
+            sDP-Media-Components
+            {
+                [0]
+                {
+                    sDP-Media-Name : '6D3D617564696F203335303432205254502F415650203936203939'H
+                    sDP-Media-Descriptions
+                    {
+                        [0] : '623D41533A3431C3BE613D7274706D61703A393620414D522D57422F3136303030C3BE613D666D74703A3936206D6F64652D6368616E67652D6361706162696C6974793D323B206D61782D7265643D30C3BE613D7274706D61703A39392074656C6570686F6E652D6576656E742F3136303030C3BE613D666D74703A393920302D3135C3BE613D7074696D653A3230C3BE613D6D61787074696D653A3230C3BE613D73656E6472656376C3BE613D6465733A716F73206D616E6461746F7279206C6F63616C2073656E6472656376C3BE613D637572723A716F73206C6F63616C2073656E6472656376C3BE613D6465733A716F73206D616E6461746F72792072656D6F74652073656E6472656376C3BE613D637572723A716F732072656D6F74652073656E6472656376C3BE613D636F6E663A716F732072656D6F74652073656E6472656376'H
+                    }
+                }
+            }
+        }
+    }
+    recordExtensions
+    {
+        [0]
+        {
+            identifier : '0406'H
+            significance : '1'D
+            information
+            {
+                ericssonServiceInformation
+                {
+                    [0]
+                    {
+                        mMTInformation
+                        {
+                            callingPartyAddressPresentationStatus : 'pRESENTATION-ALLOWED (0)'
+                            fromHeader : '7369703A2B33393339323933323134373640696D732E6D6E633031302E6D63633232322E336770706E6574776F726B2E6F72673B757365723D70686F6E65'H
+                            fromHeaderPresentationStatus : 'pRESENTATION-ALLOWED (0)'
+                            sIPRingingTimestamp : '33393232373634333834'H
+                        }
+                    }
+                }
+                accountingRecordType : '2'D
+            }
+        }
+    }
+    accessNetworkInformation : '494545452D3830322E31313B6C6F63616C2D74696D652D7A6F6E653D225554432B30323A3030223B6461796C696768742D736176696E672D74696D653D223031223B6E6574776F726B2D70726F7669646564'H
+    list-of-subscription-ID
+    {
+        [0]
+        {
+            subscriptionIDType : '30'H
+            subscriptionIDData : '333933343930363231393838'H
+        }
+    }
+    eventTimestamp : '3922764400'H
+    outgoingSessionId : '70363535353074313731333737353538316D3938323534346331323830307332'H
+    user-Session-Id : '6973626345424544323045463634463636443643433630323539313740323337306666666666666666'H
+    list-of-userEquipment-Info
+    {
+        [0]
+        {
+            userEquipmentInfoType : 'iMEISV (0)'
+            userEquipmentInfoValue : '3333333533333339333233303331333033333339333833313338333733303436'H
+        }
+    }
+    destinationRealm : '6E6367524D7072652E74696D2E6974'H
+    instanceId : '75726E3A67736D613A696D65693A33353339323031302D3339383138372D30'H
+}
+
+IMSChargingDataTypes.IMSRecord.mMTelRecord
+{
+    recordType : '83'D
+    sIP-Method : '494E56495445'H
+    role-of-Node : 'terminating (1)'
+    nodeAddress
+    {
+        domainName : '3664373436313733373236363264373333303332326433323330333232653734333033323265373436393664326536393734'H
+    }
+    session-Id : '6D74617372662D7330322D3230322E7430322E74696D2E69743B3339393031393B323032363533353635353B31323830303B38353B303B7369703A2B33393334393036323139383840696D732E6D6E633030312E6D6363323        2322E336770706E6574776F726B2E6F7267'H
+    list-Of-Calling-Party-Address
+    {
+        sIP-URI : '7369703A2B33393339323933323134373640696D732E6D6E633031302E6D63633232322E336770706E6574776F726B2E6F72673B757365723D70686F6E653B6370633D6F7264696E617279'H
+    }
+    called-Party-Address
+    {
+        tEL-URI : '74656C3A2B333933343930363231393838'H
+    }
+    interOperatorIdentifiers
+    {
+        [0]
+        {
+            originatingIOI : '766F6461666F6E652E6974'H
+            terminatingIOI : '74696D2E6974'H
+        }
+    }
+    recordSequenceNumber : '1'D
+    iMS-Charging-Identifier : '2270637363662E3165662E353736392E323032343034323230383436323022'H
+    list-Of-SDP-Media-Components
+    {
+        [0]
+        {
+            sIP-Request-Timestamp : '33393232373634333832'H
+            sIP-Response-Timestamp : '33393232373634343030'H
+            sDP-Media-Components
+            {
+                [0]
+                {
+                    sDP-Media-Name : '6D3D617564696F203335303432205254502F415650203936203939'H
+                    sDP-Media-Descriptions
+                    {
+                        [0] : '623D41533A3431C3BE613D7274706D61703A393620414D522D57422F3136303030C3BE613D666D74703A3936206D6F64652D6368616E67652D6361706162696C6974793D323B206D61782D7265643D30C3BE        613D7274706D61703A39392074656C6570686F6E652D6576656E742F3136303030C3BE613D666D74703A393920302D3135C3BE613D7074696D653A3230C3BE613D6D61787074696D653A3230C3BE613D73656E6472656376C3BE613D6465733A716        F73206D616E6461746F7279206C6F63616C2073656E6472656376C3BE613D637572723A716F73206C6F63616C2073656E6472656376C3BE613D6465733A716F73206D616E6461746F72792072656D6F74652073656E6472656376C3BE613D637572        723A716F732072656D6F74652073656E6472656376C3BE613D636F6E663A716F732072656D6F74652073656E6472656376'H
+                    }
+                }
+            }
+        }
+    }
+    recordExtensions
+	    {
+        [0]
+        {
+            identifier : '0406'H
+            significance : '1'D
+            information
+            {
+                ericssonServiceInformation
+                {
+                    [0]
+                    {
+                        mMTInformation
+                        {
+                            callingPartyAddressPresentationStatus : 'pRESENTATION-ALLOWED (0)'
+                            fromHeader : '7369703A2B33393339323933323134373640696D732E6D6E633031302E6D63633232322E336770706E6574776F726B2E6F72673B757365723D70686F6E65'H
+                            fromHeaderPresentationStatus : 'pRESENTATION-ALLOWED (0)'
+                            sCCServiceIdentity
+                            {
+                                [0] : "0"
+                            }
+                            sCCTADSDecision : 'terminate-on-VoLTE-UE-on-PS (2)'
+                            sIPRingingTimestamp : '33393232373634333834'H
+                        }
+                    }
+                }
+                accountingRecordType : '2'D
+            }
+        }
+    }
+    list-of-subscription-ID
+    {
+        [0]
+        {
+            subscriptionIDType : '30'H
+            subscriptionIDData : '333933343930363231393838'H
+        }
+    }
+    eventTimestamp : '3922764400'H
+    outgoingSessionId : '70363535353074313731333737353538316D3938323534346331323830307334'H
+    user-Session-Id : '70363535353074313731333737353538316D3938323534346331323830307332'H
+    list-of-userEquipment-Info
+    {
+        [0]
+        {
+            userEquipmentInfoType : 'iMEISV (0)'
+            userEquipmentInfoValue : '3333333533333339333233303331333033333339333833313338333733303436'H
+        }
+    }
+    destinationRealm : '6E6367524D7072652E74696D2E6974'H
+    instanceId : '75726E3A67736D613A696D65693A33353339323031302D3339383138372D30'H
+}
+
+IMSChargingDataTypes.IMSRecord.mMTelRecord
+{
+    recordType : '83'D
+    sIP-Method : '425945'H
+    role-of-Node : 'terminating (1)'
+    nodeAddress
+    {
+        domainName : '3664373436313733373236363264373333303332326433323330333232653734333033323265373436393664326536393734'H
+    }
+    session-Id : '6D74617372662D7330322D3230322E7430322E74696D2E69743B3339393031393B323032363531313739353B31323830303B38333B303B7369703A2B33393334393036323139383840696D732E6D6E633030312E6D63633232322E336770706E6574776F726B2E6F7267'H
+    list-Of-Calling-Party-Address
+    {
+        sIP-URI : '7369703A2B33393339323933323134373640696D732E6D6E633031302E6D63633232322E336770706E6574776F726B2E6F72673B757365723D70686F6E653B6370633D6F7264696E617279'H
+    }
+    called-Party-Address
+    {
+        tEL-URI : '74656C3A2B333933343930363231393838'H
+    }
+    recordSequenceNumber : '2'D
+    causeForRecordClosing : 'serviceDeliveryEndSuccessfully (0)'
+    iMS-Charging-Identifier : '2270637363662E3165662E353736392E323032343034323230383436323022'H
+    list-Of-SDP-Media-Components
+    {
+        [0]
+        {
+            sIP-Request-Timestamp : '33393232373634343233'H
+        }
+    }
+    serviceReasonReturnCode : '30'H
+    recordExtensions
+    {
+        [0]
+        {
+            identifier : '0406'H
+            significance : '1'D
+            information
+            {
+                ericssonServiceInformation
+                {
+                    [0]
+                    {
+                        mMTInformation
+                        {
+                            callingPartyAddressPresentationStatus : 'pRESENTATION-ALLOWED (0)'
+                        }
+                    }
+                }
+                accountingRecordType : '4'D
+            }
+        }
+    }
+    list-of-subscription-ID
+    {
+        [0]
+        {
+            subscriptionIDType : '30'H
+            subscriptionIDData : '333933343930363231393838'H
+        }
+    }
+    eventTimestamp : '3922764423'H
+    outgoingSessionId : '70363535353074313731333737353538316D3938323534346331323830307332'H
+    user-Session-Id : '6973626345424544323045463634463636443643433630323539313740323337306666666666666666'H
+    cCode : '30'H
+    destinationRealm : '6E6367524D7072652E74696D2E6974'H
+}
+
+IMSChargingDataTypes.IMSRecord.mMTelRecord
+{
+    recordType : '83'D
+    sIP-Method : '425945'H
+    role-of-Node : 'terminating (1)'
+    nodeAddress
+    {
+        domainName : '3664373436313733373236363264373333303332326433323330333232653734333033323265373436393664326536393734'H
+    }
+    session-Id : '6D74617372662D7330322D3230322E7430322E74696D2E69743B3339393031393B323032363533353635353B31323830303B38353B303B7369703A2B33393334393036323139383840696D732E6D6E633030312E6D63633232322E336770706E6574776F726B2E6F7267'H
+    list-Of-Calling-Party-Address
+    {
+        sIP-URI : '7369703A2B33393339323933323134373640696D732E6D6E633031302E6D63633232322E336770706E6574776F726B2E6F72673B757365723D70686F6E653B6370633D6F7264696E617279'H
+    }
+    called-Party-Address
+    {
+        tEL-URI : '74656C3A2B333933343930363231393838'H
+    }
+    recordSequenceNumber : '2'D
+    causeForRecordClosing : 'serviceDeliveryEndSuccessfully (0)'
+    iMS-Charging-Identifier : '2270637363662E3165662E353736392E323032343034323230383436323022'H
+    list-Of-SDP-Media-Components
+    {
+        [0]
+        {
+            sIP-Request-Timestamp : '33393232373634343233'H
+        }
+    }
+    serviceReasonReturnCode : '30'H
+    recordExtensions
+    {
+        [0]
+        {
+            identifier : '0406'H
+            significance : '1'D
+            information
+            {
+                ericssonServiceInformation
+                {
+                    [0]
+                    {
+                        mMTInformation
+                        {
+                            callingPartyAddressPresentationStatus : 'pRESENTATION-ALLOWED (0)'
+                            sCCServiceIdentity
+                            {
+                                [0] : "0"
+                            }
+                            sCCTADSDecision : 'terminate-on-VoLTE-UE-on-PS (2)'
+                        }
+                    }
+                }
+                accountingRecordType : '4'D
+            }
+        }
+    }
+    list-of-subscription-ID
+    {
+        [0]
+        {
+            subscriptionIDType : '30'H
+            subscriptionIDData : '333933343930363231393838'H
+        }
+    }
+    eventTimestamp : '3922764423'H
+    outgoingSessionId : '70363535353074313731333737353538316D3938323534346331323830307334'H
+    user-Session-Id : '70363535353074313731333737353538316D3938323534346331323830307332'H
+    cCode : '30'H
+    destinationRealm : '6E6367524D7072652E74696D2E6974'H
+}
