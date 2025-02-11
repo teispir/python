@@ -1,0 +1,56 @@
+
+InternalLMISF.LMISFRecord
+{
+    sessionId : 'lmisf-s02-301-01.t02.tim.it;287309958;1233679707;RrIrylXA1hQzdC253Puo5g..@100.75.18.3'
+    originHost : 'lmisf-s02-301-01.t02.tim.it'
+    originRealm : 't02.tim.it'
+    destinationRealm : 'NCGRM.tim.it'
+    destinationHost : 'NCGRM16-FE1.tim.it'
+    accountingRecordType : 'event (1)'
+    accountingRecordNumber : '0'D
+    eventTimestamp : '21-12-92 05:23:48 PM'
+    userName : '222015500003682'
+    sIPMethod : 'SUBSCRIBE'
+    listOfMessageBodies
+    {
+        [0]
+        {
+            contentType : ''H
+            originator : '0'D
+        }
+    }
+    userSessionId : 'RrIrylXA1hQzdC253Puo5g..@100.75.18.3'
+    listOfCallingPartyAddress
+    {
+        sIP-URI : 'sip:+393358829382@ims.mnc001.mcc222.3gppnetwork.org'
+    }
+    calledPartyAddress
+    {
+        sIP-URI : 'sip:+393358829382@ims.mnc001.mcc222.3gppnetwork.org'
+    }
+    listOfTimeStamps
+    {
+        [0]
+        {
+            sipRequestTimestamp : '21-12-92 05:23:48 PM'
+            sipResponseTimestamp : '21-12-92 05:23:48 PM'
+            sipRequestTimestampFraction : '91'H
+            sipResponseTimestampFraction : '92'H
+        }
+    }
+    interOperatorIdentifiers
+    {
+        [0]
+        {
+            originatingIOI : 'tim.it'
+        }
+    }
+    iMSChargingIdentifier : '42480073C0A8AC53_RrIrylXA1hQzdC253Puo5g..@100.75.18.3'
+    causeCode : ' (503)'
+    accessNetworkInformation : '3GPP-E-UTRAN-FDD;utran-cell-id-3gpp=22201723b0a11903'
+    nodeFunctionality : '8'D
+    instanceId : 'urn:gsma:imei:35285930-000701-0'
+    startTime : '0'D
+    duration : '0'D
+}
+
