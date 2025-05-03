@@ -1,0 +1,2 @@
+https://stackoverflow.com/questions/69695721/how-to-login-to-bet365-using-selenium-python
+https://stackoverflow.com/questions/33225947/can-a-website-detect-when-you-are-using-selenium-with-chromedriver/52108199#52108199
